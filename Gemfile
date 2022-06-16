@@ -6,6 +6,8 @@ ruby '3.1.2'
 #bundles added by me:
 
 gem 'devise'
+gem 'devise-bootstrap-views'
+gem 'iex-ruby-client'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
