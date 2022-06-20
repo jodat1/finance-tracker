@@ -19,9 +19,11 @@ import "bootstrap"
 // Import the specific modules you may need (Modal, Alert, etc)
 import { Tooltip, Popover } from "bootstrap"
 
-// The stylesheet location we created earlier
-require("../stylesheets/application.scss")
-require("../stylesheets/custom.css.scss")
+// The stylesheets location we created earlier
+// require("../stylesheets/application.scss")
+// require("../stylesheets/custom.css.scss")
+// require("../stylesheets/users.scss")
+
 
 // If you're using Turbolinks. Otherwise simply use: jQuery(function () {
 document.addEventListener("turbolinks:load", () => {

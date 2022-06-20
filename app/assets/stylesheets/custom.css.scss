@@ -1,0 +1,23 @@
+@import 'bootstrap/dist/css/bootstrap';
+@import "font-awesome";
+
+.search-area{
+    padding-top: 50px;
+}
+
+.no-left-padding{
+    padding-left: 0 !important;
+}
+
+.no-right-padding{
+    padding-right: 0 !important;
+}
+
+.results-block{
+    display: inline;
+    background-color: rgb(204, 204, 204);
+    padding:10px;
+}
+.gap{
+    margin-top:20px; 
+}

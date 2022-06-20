@@ -8,6 +8,7 @@ ruby '3.1.2'
 gem 'devise'
 gem 'devise-bootstrap-views'
 gem 'iex-ruby-client'
+gem "font-awesome-rails"
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
