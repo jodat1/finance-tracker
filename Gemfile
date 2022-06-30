@@ -9,9 +9,6 @@ gem 'devise'
 gem 'devise-bootstrap-views'
 gem 'iex-ruby-client'
 gem "font-awesome-rails"
-group :development do
-  gem 'puma-ngrok-tunnel'
-end
 
 
 
